@@ -5,7 +5,7 @@ I love ACG.
 + learning Flutter
 + like Node.js
 
-My Blog: <a href="https://mkz.life">mkz.life</a><br/>
+My Blog: <a href="https://kamio.misuzu.moe">Maimai Suirai</a><br/>
 
 ^_^
 
